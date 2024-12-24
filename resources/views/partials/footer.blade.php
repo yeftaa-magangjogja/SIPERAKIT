@@ -1,0 +1,1 @@
+<footer>&copy; 2024 Sistem Pendataan Rumah Sakit.</footer>
